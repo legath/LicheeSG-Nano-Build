@@ -49,3 +49,6 @@
 [submodule "host-tools"]
 	path = host-tools
 	url = https://github.com/sophgo/host-tools
+[submodule "flatbuffers"]
+	path = flatbuffers
+	url = https://github.com/sophgo/flatbuffers.git
