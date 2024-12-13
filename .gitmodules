@@ -52,3 +52,18 @@
 [submodule "flatbuffers"]
 	path = flatbuffers
 	url = https://github.com/sophgo/flatbuffers.git
+[submodule "cvibuilder"]
+	path = cvibuilder
+	url = https://github.com/sophgo/cvibuilder.git
+[submodule "cvikernel"]
+	path = cvikernel
+	url = https://github.com/sophgo/cvikernel.git
+[submodule "cnpy"]
+	path = cnpy
+	url = https://github.com/wwwuxy/cnpy-for-tpu_mlir.git
+[submodule "cvimath"]
+	path = cvimath
+	url = https://github.com/sophgo/cvimath.git
+[submodule "cviruntime"]
+	path = cviruntime
+	url = https://github.com/sophgo/cviruntime.git
